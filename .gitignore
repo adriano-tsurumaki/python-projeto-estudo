@@ -1,0 +1,9 @@
+*concurso.db
+*.pyo
+*.pyc
+.idea/
+__pycache__/
+
+.env
+.venv
+venv/
